@@ -1,0 +1,99 @@
+reboot...
+Constructeur Flotteur OK
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+
+_is_accu_ok : 1 	(12752 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12712 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 0
+ETIAGE
+
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 0
+ETIAGE
+
+_is_accu_ok : 1 	(12908 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12888 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+reboot...
+Constructeur Flotteur OK
+_is_accu_ok : 1 	(12752 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
+
+_is_accu_ok : 1 	(12752 mV)
+is_eau_a_pomper : 1
+Flotteur::is_tuyau_desamorce() : 0
+CRUE PERMANENTE
+reboot...
+Constructeur Flotteur OK
+_is_accu_ok : 1 	(12732 mV)
+is_eau_a_pomper : 0
+ETIAGE
+
+_is_accu_ok : 1 	(12712 mV)
+is_eau_a_pomper : 1
+FlotWVﾗ￩:is_tuyau_desamorce() : 1
+YOYO JOURNALIER
+pompe demarree
+pompe arretee
