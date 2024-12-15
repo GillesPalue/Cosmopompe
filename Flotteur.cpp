@@ -16,7 +16,7 @@
 
 Flotteur::Flotteur()
 {
-    pinMode (PIN_FLOTTEUR, INPUT);    
+    pinMode (PIN_FLOTTEUR, INPUT_PULLUP);    
     _instance = this;
     
     #ifdef MODE_DEBUG
